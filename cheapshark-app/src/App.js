@@ -38,9 +38,11 @@ function App() {
             gameName: detailCard.data.gameInfo.name,
             gameSalePrice: detailCard.data.gameInfo.salePrice,
             gameRetailPrice: detailCard.data.gameInfo.retailPrice,
+            gameSteamRatingPercent: detailCard.data.gameInfo.steamRatingPercent,
             gameSteamRatingText: detailCard.data.gameInfo.steamRatingText,
             gameImageUrl: detailCard.data.gameInfo.thumb,
             gameSavingPercent: tempData.savings
+
 
         }
         games2.push(detailCardModel);
@@ -51,7 +53,7 @@ function App() {
 
 
     return (
-        <div>
+        <div className="bg">
             <Navbar/>
             <div className="container">
                 <div className="row">
