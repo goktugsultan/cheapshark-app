@@ -6,4 +6,5 @@ GreenManGaming, Fanatical, and many others.
 
 - React Hooks
 - Bootstrap-4 for style [Bootstrap-4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+- Axios for api [axios](https://www.npmjs.com/package/axios)
 - Steam rating percent [react-star-rating-component](https://www.npmjs.com/package/react-star-rating-component) 
