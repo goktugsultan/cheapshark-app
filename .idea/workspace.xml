@@ -19,11 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheapshark-app/src/components/Navbar.js" afterDir="false" />
+    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="add Navbar.js">
+      <change afterPath="$PROJECT_DIR$/cheapshark-app/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheapshark-app/src/components/Card.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapshark-app/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapshark-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jsx.switch.disabled" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611340833289</updated>
       <workItem from="1611340837482" duration="322000" />
-      <workItem from="1611341260800" duration="670000" />
+      <workItem from="1611341260800" duration="4690000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611341365605</created>
@@ -78,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611341639213</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Navbar.js">
+      <created>1611342041010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611342041010</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,12 +114,13 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="add Navbar.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Navbar.js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1611341641960">
+    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1611342043613">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
-    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2/72.29.1294.739@72.29.1294.739" timestamp="1611341641960" />
+    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2/72.29.1294.739@72.29.1294.739" timestamp="1611342043613" />
   </component>
 </project>
