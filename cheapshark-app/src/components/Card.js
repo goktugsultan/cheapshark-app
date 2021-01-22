@@ -1,6 +1,7 @@
 import React from 'react'
 import StarRatingComponent from 'react-star-rating-component';
 import '../App.css'
+import * as rating from "../const/const";
 
 
 function Card(props) {
@@ -9,15 +10,15 @@ function Card(props) {
     const getRatingValue = () => {
         const {gameSteamRatingPercent} = props.game
         if (gameSteamRatingPercent >= 80) {
-            return 5;
+            return rating.ratingFive;
         } else if (gameSteamRatingPercent >= 60 && gameSteamRatingPercent < 80) {
-            return 4;
+            return rating.ratingFour;
         } else if (gameSteamRatingPercent >= 40 && gameSteamRatingPercent < 60) {
-            return 3;
+            return rating.ratingThree;
         } else if (gameSteamRatingPercent >= 20 && gameSteamRatingPercent < 40) {
-            return 2;
+            return rating.ratingTwo;
         } else {
-            return 1;
+            return rating.ratingOne;
         }
     }
     const savingPercent = parseFloat(gameSavingPercent).toFixed(2)
@@ -38,7 +39,7 @@ function Card(props) {
                     <hr/>
                     <div className="mt-2">
                             <span className="d-block">
-                                Rating: {gameSteamRatingText ? gameSteamRatingText : "Not enough to decide"}
+                                <span className="font-weight-bold">Rating</span>: {gameSteamRatingText ? gameSteamRatingText : "Not enough to decide"}
                             </span>
                     </div>
                 </div>
