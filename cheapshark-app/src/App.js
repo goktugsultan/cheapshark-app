@@ -1,13 +1,14 @@
 import React, {useState, useEffect} from 'react'
 import './App.css';
+import * as api from "./api/api";
 import Navbar from "./components/Navbar";
 import Card from "./components/Card";
-import * as api from "./api/api";
+
+const axios = require('axios');
 
 function App() {
-    const axios = require('axios');
     const [games, setGames] = useState([])
-    const [games2, setGames2] = useState([])
+    const [tempGames, setGames2] = useState([])
 
     useEffect(() => {
 
@@ -42,12 +43,10 @@ function App() {
             gameSteamRatingText: detailCard.data.gameInfo.steamRatingText,
             gameImageUrl: detailCard.data.gameInfo.thumb,
             gameSavingPercent: tempData.savings
-
-
         }
-        games2.push(detailCardModel);
-        if (games2.length > 17) {
-            setGames(games2)
+        tempGames.push(detailCardModel);
+        if (tempGames.length > 17) {
+            setGames(tempGames)
         }
     }
 
