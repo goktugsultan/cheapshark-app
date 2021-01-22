@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cheapshark-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/cheapshark-app/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapshark-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapshark-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapshark-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +60,16 @@
       <option name="presentableId" value="Default" />
       <updated>1611340833289</updated>
       <workItem from="1611340837482" duration="322000" />
+      <workItem from="1611341260800" duration="362000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1611341365605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611341365605</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,8 +85,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
