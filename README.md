@@ -3,6 +3,7 @@
 CheapShark is a price comparison website for digital PC Games. We keep track of prices across multiple stores including Steam, 
 GreenManGaming, Fanatical, and many others.
 ## Used Technologies
+
 - React Hooks
 - Bootstrap-4 for style [Bootstrap-4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 - Axios for api [axios](https://www.npmjs.com/package/axios)
