@@ -8,7 +8,7 @@ const axios = require('axios');
 
 function App() {
     const [games, setGames] = useState([])
-    const [tempGames, setGames2] = useState([])
+    const [tempGames, setTempGames] = useState([])
 
     useEffect(() => {
 

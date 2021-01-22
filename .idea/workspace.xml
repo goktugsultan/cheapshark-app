@@ -19,8 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="update Card.js">
+    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="update App.js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapshark-app/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cheapshark-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapshark-app/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/src/components/Card.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611340833289</updated>
       <workItem from="1611340837482" duration="322000" />
-      <workItem from="1611341260800" duration="8922000" />
+      <workItem from="1611341260800" duration="10370000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611341365605</created>
@@ -102,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611353718030</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update App.js">
+      <created>1611354309388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611354309388</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,13 +138,14 @@
     <MESSAGE value="add Navbar.js" />
     <MESSAGE value="add Card.js and api.js" />
     <MESSAGE value="update Card.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Card.js" />
+    <MESSAGE value="update App.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="update App.js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1611353720368">
+    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1611354311844">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
-    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2/72.29.1294.739@72.29.1294.739" timestamp="1611353720368" />
+    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2/72.29.1294.739@72.29.1294.739" timestamp="1611354311844" />
     <state x="383" y="174" key="run.anything.popup" timestamp="1611353707405">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
