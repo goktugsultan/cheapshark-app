@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="update App.js">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheapshark-app/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheapshark-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheapshark-app/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/src/components/Card.js" afterDir="false" />
-    </list>
+    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="update README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611340833289</updated>
       <workItem from="1611340837482" duration="322000" />
-      <workItem from="1611341260800" duration="10370000" />
+      <workItem from="1611341260800" duration="10671000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611341365605</created>
@@ -113,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611354309388</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update README.md">
+      <created>1611355626692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611355626692</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update README.md">
+      <created>1611355795247</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611355795247</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,13 +147,14 @@
     <MESSAGE value="add Card.js and api.js" />
     <MESSAGE value="update Card.js" />
     <MESSAGE value="update App.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="update App.js" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1611354311844">
+    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1611355628773">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
-    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2/72.29.1294.739@72.29.1294.739" timestamp="1611354311844" />
+    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2/72.29.1294.739@72.29.1294.739" timestamp="1611355628773" />
     <state x="383" y="174" key="run.anything.popup" timestamp="1611353707405">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
