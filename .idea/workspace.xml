@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="update Navbar.js">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheapshark-app/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/.eslintcache" afterDir="false" />
+    <list default="true" id="9868aee7-3ef2-43e4-b460-5e9133c304e8" name="Default Changelist" comment="Update README.md">
+      <change beforePath="$PROJECT_DIR$/cheapshark-app/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/cheapshark-app/src/components/Card.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611340833289</updated>
       <workItem from="1611340837482" duration="322000" />
-      <workItem from="1611341260800" duration="13360000" />
+      <workItem from="1611341260800" duration="14224000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611341365605</created>
@@ -160,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611358407152</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update README.md">
+      <created>1611359284591</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611359284591</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update README.md">
+      <created>1611359306820</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611359306820</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,13 +201,14 @@
     <MESSAGE value="update README.md" />
     <MESSAGE value="add const.js and update card.js" />
     <MESSAGE value="update Navbar.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Navbar.js" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1611358409897">
+    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1611359310160">
       <screen x="72" y="29" width="1294" height="739" />
     </state>
-    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2/72.29.1294.739@72.29.1294.739" timestamp="1611358409897" />
+    <state x="314" y="120" width="800" height="563" key="Vcs.Push.Dialog.v2/72.29.1294.739@72.29.1294.739" timestamp="1611359310160" />
     <state x="383" y="174" key="run.anything.popup" timestamp="1611353707405">
       <screen x="72" y="29" width="1294" height="739" />
     </state>

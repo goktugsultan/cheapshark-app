@@ -45,7 +45,7 @@ function Card(props) {
                 </div>
                 <div className="m-2 p-2 d-flex justify-content-around text-dark">
                     <span className="font-weight-bold font-size">$ {gameSalePrice}</span>
-                    <span className="discount px-4 font-size">%{savingPercent}</span>
+                    <span className="discount px-md-1 px-lg-4 font-size">%{savingPercent}</span>
                     <span className="text-muted font-weight-bold font-size"><s>$ {gameRetailPrice}</s></span>
                 </div>
             </div>
