@@ -28,7 +28,7 @@ function Card(props) {
             <div className="card mt-3">
                 <div className="align-items-center p-2 text-center">
                     <img src={gameImageUrl} className="rounded" width="130" height="130"/>
-                    <h6 className="mt-3 text-truncate">{gameName}</h6>
+                    <h6 className="mt-3 text-truncate ">{gameName}</h6>
                     <StarRatingComponent
                         name="rate"
                         editing={false}
