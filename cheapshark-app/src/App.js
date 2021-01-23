@@ -45,7 +45,7 @@ function App() {
             gameSavingPercent: tempData.savings
         }
         tempGames.push(detailCardModel);
-        if (tempGames.length > 17) {
+        if (tempGames.length > api.dataCount) {
             setGames(tempGames)
         }
     }
